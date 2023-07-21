@@ -1,5 +1,6 @@
+
 # PyEncrypter
-<img src="assest/banner.png">
+<img src="assest/banner.png" width="100%" hight="auto">
 PyEncrypter is a command-line tool developed by KDO from Cyber-D that allows you to encrypt Python3 code and make it executable on both Linux and Termux platforms. This tool ensures your Python code remains secure while still being executable on target systems.
 
 ## Features
@@ -68,7 +69,7 @@ PyEncrypter is a tool developed by KDO from Cyber-D. It is designed to encrypt P
 
 By using PyEncrypter, you acknowledge and accept these disclaimers. The developers and maintainers of this tool are not liable for any issues arising from its usage. Always use this tool responsibly and in compliance with applicable laws and regulations.
 
-If you have any concerns or questions about PyEncrypter's usage or its security features, please contact KDO via email at kdo@cyberd.com or visit our website [www.cyber-d.com](https://t.me/cyber_d_kdo).
+If you have any concerns or questions about PyEncrypter's usage or its security features, please contact KDO via telegram [@cyber_d_kdo](https://t.me/cyber_d_kdo).
 
 **Use PyEncrypter responsibly and keep your code secure. Happy coding! 🚀**
 
