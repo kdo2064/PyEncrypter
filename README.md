@@ -74,7 +74,7 @@ If you have any concerns or questions about PyEncrypter's usage or its security 
 **Use PyEncrypter responsibly and keep your code secure. Happy coding! 🚀**
 
 
-## Disclaimer
+## Visiter
 <img src="https://profile-counter.glitch.me/kdo2064/count.svg" alt="Visitors">
 
 
